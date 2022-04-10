@@ -1,0 +1,53 @@
+
+[
+{
+"imageUrl": "https://www.gstatic.com/webp/gallery/4.jpg",
+"timeRemaining": "00:10:00",
+"text": "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."
+},
+{
+"imageUrl": "https://www.gstatic.com/webp/gallery/4.jpg",
+"timeRemaining": "00:00:20",
+"text": "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+},
+{
+"imageUrl": "https://www.gstatic.com/webp/gallery/5.jpg",
+"timeRemaining": "00:00:45",
+"text": "Hey what do you think about this string. Don't you think this is longer than the previous strings"
+},
+{
+"imageUrl": "https://www.gstatic.com/webp/gallery/1.jpg",
+"timeRemaining": "00:03:10",
+"text": "Bravo! can't believe that that the string is longer. But I know I can manage this even it is longer that the all the previous strings."
+},
+{
+"imageUrl": "https://www.gstatic.com/webp/gallery/2.jpg",
+"timeRemaining": "00:01:00",
+"text": "Hey, just keep it short."
+},
+{
+"imageUrl": "https://www.gstatic.com/webp/gallery/4.jpg",
+"timeRemaining": "00:10:00",
+"text": "Nam liber te conscient to factor tum poen legum odioque civiuda."
+},
+{
+"imageUrl": "https://www.gstatic.com/webp/gallery/4.jpg",
+"timeRemaining": "00:20:50",
+"text": "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+},
+{
+"imageUrl": "https://www.gstatic.com/webp/gallery/5.jpg",
+"timeRemaining": "00:08:45",
+"text": "Hey what do you think about this string. Don't you think this is longer than the previous strings"
+},
+{
+"imageUrl": "https://www.gstatic.com/webp/gallery/1.jpg",
+"timeRemaining": "02:03:10",
+"text": "Bravo! can't believe that that the string is longer. But I know I can manage this even it is longer that the all the previous strings."
+},
+{
+"imageUrl": "https://www.gstatic.com/webp/gallery/2.jpg",
+"timeRemaining": "01:01:00",
+"text": "Hey, just keep it short."
+}
+]
